@@ -1,0 +1,17 @@
+<group>
+	<General_Controls>
+		<Max_Distance>14.2857</Max_Distance>
+		<Distance_Power>1.04592</Distance_Power>
+	</General_Controls>
+<group/>
+<Vertex_Controls>
+		<Max_Distance>14.7959</Max_Distance>
+		<Distance_Power>0.943878</Distance_Power>
+	<Point_Size>1.88776</Point_Size>
+	<Draw_Points>1</Draw_Points>
+	</Vertex_Controls>
+	<Line_Controls>
+		<Max_Line_Closeness>22.7041</Max_Line_Closeness>
+	<Draw_Lines>0</Draw_Lines>
+	</Line_Controls>
+</group>
